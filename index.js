@@ -8,5 +8,5 @@ function happyHolidaysTo(string) {
 
 function happyHolidayTo(holiday, name) {
   console.log(holiday, name)
-  return "Happy Independance Day, You!"
+  return "Happy `${Independance Day}, ${You}`!"
 }
