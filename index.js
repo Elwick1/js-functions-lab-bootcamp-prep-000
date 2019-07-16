@@ -9,5 +9,7 @@ function happyHolidaysTo(string) {
 function happyHolidayTo(holiday, name) {
   var IndependanceDay
   var You
+  IndependanceDay = holiday
+  you = name
   return "Happy `${Independance Day}, ${You}`!"
 }
